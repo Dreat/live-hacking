@@ -126,3 +126,19 @@ Temat: Stworzenie działającego mechanizmu w UNITY (gra typu FPS)
 
 Efekty: Mamy placeholder Gracza który się porusza i strzela, a nawet może coś zastrzelić.
 <hr>
+
+31.01.2021
+Prowadzący: https://github.com/Dreat
+
+Temat: Webapka do gry w Brydża bez JS
+
+Efekty: Mamy rozdawanie kart, wyświetlanie ich na ekranie, proste przyciski do licytacji oraz stan gry.
+<hr>
+
+## Zaplanowane edycje
+
+21.03.2021
+
+Prowadzący: 
+
+Temat: Automatyzacja newslettera - Ruby + integracja z 3 serwisami
